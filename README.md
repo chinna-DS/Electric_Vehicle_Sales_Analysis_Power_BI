@@ -25,18 +25,18 @@ Imagine yourself as Peter Pandey and perform the following tasks.
 
 ![2](https://github.com/user-attachments/assets/3423b1ba-7ed5-48ff-9131-3e6c8bc2cc59)
 
-![Sales Mode Analysis](https://github.com/user-attachments/assets/9bbe38c6-ae9a-4d8f-89a5-df277e11db39)
+![3](https://github.com/user-attachments/assets/13d8e0da-1fe6-4dea-a820-592c340a4306)
 
-![Age Group Analysis](https://github.com/user-attachments/assets/e10c868e-4993-4191-b22a-2945d1b15481)
+![4](https://github.com/user-attachments/assets/f6647322-38fa-4436-8804-e65277ff3e13)
 
 ## Key Insights
 
-1. The revenue of Shield Insurance is 989 million rupees, with 26,841 customers.
+1. The revenu
 
-2. Delhi NCR has the highest revenue (402 million rupees) and customer count (11,007), followed by Mumbai, Hyderabad, Chennai, and Indore.
+2. Delhi NCR has
 
-3. March 2023 was the highest-performing month in terms of revenue and customer count.
+3. March
 
-4. The age group 31-40 has the highest revenue and customer count.
+4. The a
 
-5. Sales Mode: Offline agents are the most preferred by customers, with a share of more than 55%.
+5. Sales 
