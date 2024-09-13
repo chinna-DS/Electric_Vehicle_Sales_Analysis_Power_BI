@@ -1,4 +1,4 @@
-# Electric Vehicle Sales Analysis-Power BI
+# Electric Vehicle Sales Analysis - Power BI
 
 This project is part of AtliQ Technologies Virtual Internship.
 
