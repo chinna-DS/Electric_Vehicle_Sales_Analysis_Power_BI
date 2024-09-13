@@ -19,7 +19,7 @@ Imagine yourself as Peter Pandey and perform the following tasks.
 
 ## Data Model
 
-![data_model](https://github.com/user-attachments/assets/b8f3dcb9-f23f-4158-9909-df9c32056601)
+![Data Model](https://github.com/user-attachments/assets/923b7379-8449-4277-a00c-57e39d53ab35)
 
 ## Dashboard Design
 
