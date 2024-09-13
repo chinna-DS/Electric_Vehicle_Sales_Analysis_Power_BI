@@ -14,14 +14,9 @@ AtliQ Motors, a US-based automotive company specializing in electric vehicles (E
 
 Imagine yourself as Peter Pandey and perform the following tasks.
 
-1. Begin your analysis by referring to the
-‘primary_and_secondary_questions.pdf’. You can use any tool of your choice
-(Python, SQL, PowerBI, Tableau, Excel, PowerPoint) to analyze and answer
-these questions. More instructions are provided in this document.
-2. Design a dashboard with your metrics and analysis. The dashboard should be
-self-explanatory and easy to understand.
-3. You can use additional data based on your own research to support your
-recommendations and provide more insights.
+- Analyze electric vehicle sales data to address both primary and secondary research questions
+- design a dashboard and present the insights from the analysis to the Chief, Bruce Haryali
+- ![image](https://github.com/user-attachments/assets/ea9150a8-a2a9-43fc-a8ab-9c5bb2e6b51d)
 
 ## Data Model
 
