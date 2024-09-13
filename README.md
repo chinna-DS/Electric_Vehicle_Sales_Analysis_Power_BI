@@ -8,10 +8,7 @@ Designed a dashboard in Power BI as part of the Codebasics resume challenge-12 t
 
 ## Problem Statement
 
-Shield Insurance is an insurance provider operating across five cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
-They utilize various sales channels to reach their customers, including Offline Agents, Offline Direct, Online Apps, and Online Websites and offer a total of nine different policies
-
-Shield Insurance aims to enhance data-driven decision-making through a dashboard providing actionable insights. To explore a potential partnership with AtliQ Technologies, they have requested a pilot project to evaluate our capabilities. The project's success will be key in determining a long-term partnership.
+AtliQ Motors, a US-based automotive company specializing in electric vehicles (EVs), has achieved a 25% market share in the electric and hybrid vehicle segment in North America over the past five years. As part of their expansion plans, they aim to launch their bestselling models in India, where their current market share is below 2%. Bruce Haryali, head of AtliQ Motors India, has commissioned a detailed market study of the existing EV/hybrid market in India before moving forward, assigning this task to the data analytics team, led by data analyst Peter Pandey.
 
 ## Task
 
