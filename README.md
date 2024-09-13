@@ -1,6 +1,6 @@
 # Electric Vehicle Sales Analysis - Power BI
 
-Designed a dashboard in Power BI as part of the codebasics resume challenge-12 to provide insights to Automotive company, AtliQ Motors on Electric Vehicles Launch in India.
+As part of the codebasics resume challenge-12 , analyzed EV sales data from 2022 to 2024 and designed a dashboard in Power BI.
 
 - **Live Dashboard**: [Link](https://app.powerbi.com/view?r=eyJrIjoiZmEyYmUxOTktNjY5YS00YTQ5LWI5MzItZjRmOTgxNzlhYzJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
