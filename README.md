@@ -1,6 +1,6 @@
 # Electric Vehicle Sales Analysis - Power BI
 
-This project is part of AtliQ Technologies Virtual Internship.
+Designed a dashboard in Power BI as part of the Codebasics resume challenge-12 to provide insights to Automotive company, AtliQ Motors on Electric Vehicles Launch in India.
 
 - **Live Dashboard**: [Link](https://app.powerbi.com/view?r=eyJrIjoiZmEyYmUxOTktNjY5YS00YTQ5LWI5MzItZjRmOTgxNzlhYzJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
