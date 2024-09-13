@@ -12,14 +12,16 @@ AtliQ Motors, a US-based automotive company specializing in electric vehicles (E
 
 ## Task
 
-1. **Create a Feature List**  
-   Develop a list of features that captures all the required functionalities, following the format of the provided sample feature list. Include relevant details for each feature.
+Imagine yourself as Peter Pandey and perform the following tasks.
 
-2. **Develop a Dashboard**  
-   Build a dashboard based on feature list, using the data provided by our client, with the following three views:
-   - **General View**
-   - **Sales Mode Analysis**
-   - **Age Group Analysis**
+1. Begin your analysis by referring to the
+‘primary_and_secondary_questions.pdf’. You can use any tool of your choice
+(Python, SQL, PowerBI, Tableau, Excel, PowerPoint) to analyze and answer
+these questions. More instructions are provided in this document.
+2. Design a dashboard with your metrics and analysis. The dashboard should be
+self-explanatory and easy to understand.
+3. You can use additional data based on your own research to support your
+recommendations and provide more insights.
 
 ## Data Model
 
