@@ -2,9 +2,9 @@
 
 This project is part of AtliQ Technologies Virtual Internship.
 
-- **Live Dashboard**: [Link](https://app.powerbi.com/view?r=eyJrIjoiNDc2ZjcxMDMtN2M0Ni00NDk2LWI3OTYtZDU3ZTA4YTI0ZGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Live Dashboard**: [Link](https://app.powerbi.com/view?r=eyJrIjoiZmEyYmUxOTktNjY5YS00YTQ5LWI5MzItZjRmOTgxNzlhYzJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-- **Presentation Video**: [Link](https://www.youtube.com/watch?v=IBrQQm5SGDg&t=173s)
+- **Presentation Video**: [Link](https://www.youtube.com/watch?v=7xtxMVv--V0&t=11s)
 
 ## Problem Statement
 
