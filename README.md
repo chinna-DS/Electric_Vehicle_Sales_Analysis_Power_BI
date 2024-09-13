@@ -33,10 +33,10 @@ Imagine yourself as Peter Pandey and perform the following tasks.
 
 1. Goa is the top-performing state in terms of EV penetration rate.
 
-2. Ola Electric leads in 2-wheeler EV manufacturing.
+2. Maharashtra leads in EV sales and has the most public charging stations.
 
-3. Tata Motors is the leading 4-wheeler EV manufacturer in India.
+3. Ola Electric is the top manufacturer of 2-wheeler EVs.
 
-4. The 2-wheeler category shows higher EV sales and penetration compared to 4-wheelers.
+4. Tata Motors is the leading 4-wheeler EV manufacturer in India.
 
-5. Sales 
+5. The 2-wheeler category shows higher EV sales and penetration compared to 4-wheelers.
