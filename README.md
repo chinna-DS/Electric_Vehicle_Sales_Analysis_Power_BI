@@ -15,7 +15,7 @@ AtliQ Motors, a US-based automotive company specializing in electric vehicles (E
 Imagine yourself as Peter Pandey and perform the following tasks.
 
 - Analyze electric vehicle sales data to address both primary and secondary research questions.
-- design a dashboard and present the insights from the analysis to the Chief, Bruce Haryali.
+- Design a dashboard and present the insights from the analysis to the Chief, Bruce Haryali.
 
 ## Data Model
 
