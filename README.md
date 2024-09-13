@@ -19,11 +19,11 @@ Imagine yourself as Peter Pandey and perform the following tasks.
 
 ## Data Model
 
-![Shield Insurance Data Model](https://github.com/user-attachments/assets/07fa43a5-c0b8-4d4d-889a-2a6eac55dda1)
+![data_model](https://github.com/user-attachments/assets/b8f3dcb9-f23f-4158-9909-df9c32056601)
 
 ## Dashboard Design
 
-![General View](https://github.com/user-attachments/assets/45644d02-55bd-4a5b-b56c-4f157e0de4e7)
+![2](https://github.com/user-attachments/assets/3423b1ba-7ed5-48ff-9131-3e6c8bc2cc59)
 
 ![Sales Mode Analysis](https://github.com/user-attachments/assets/9bbe38c6-ae9a-4d8f-89a5-df277e11db39)
 
